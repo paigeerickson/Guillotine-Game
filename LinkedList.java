@@ -172,6 +172,13 @@ public class LinkedList<T> implements Iterable{
   public void reverseList(){
     reverseFirstK(this.length());
   }
+
+////////////// NOTE  /////////////////
+  /* up until this point in the code, a template file contatining mostly incomplete functions 
+     (the functions above) were used to complete this project. The following functions were
+     entirely written by me with only the outside assistance being that of other classmates 
+     for debugging. 
+  */
   
     /**
    * shuffles a given list of items into a TilePane
